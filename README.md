@@ -1,4 +1,4 @@
-# NLP-NER
+# NLP-Name Entity Recognition
 ## **Introduction**
 
 • Use part of the re3d data set from the British Defense Science and Technology Laboratory to perform Name Entity Recognition.
